@@ -164,6 +164,7 @@ main*/
 }
 .dropdown {
   display: none;
+  margin-left: 20px;
 }
 /* =======================================================
 Reusable component */
